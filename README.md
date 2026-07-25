@@ -199,10 +199,10 @@ A full-stack operational dashboard featuring a RESTful backend architecture, aut
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-p&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=7000FF&icon_color=7000FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-p&theme=synthwave&hide_border=true&background=0D1117&ring=7000FF&fire=7000FF&currStreakNum=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-p8&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=7000FF&icon_color=7000FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-p8&theme=synthwave&hide_border=true&background=0D1117&ring=7000FF&fire=7000FF&currStreakNum=C9D1D9" width="48%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-p&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=7000FF&text_color=C9D1D9" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-p8&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=7000FF&text_color=C9D1D9" width="60%" />
 </div>
 
 ---
@@ -210,9 +210,8 @@ A full-stack operational dashboard featuring a RESTful backend architecture, aut
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan-p&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan-p8&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" />
 </div>
-
 ---
 
 ## 📈 Contribution Activity
