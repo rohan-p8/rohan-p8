@@ -28,13 +28,15 @@
 
 ## 👤 About Me
 
-I am a results-driven **Software Engineer** specializing in robust backend architectures, distributed systems, and modern web application development. With a strong focus on high-performance REST APIs, database normalization, and automated data pipelines, I design software solutions built for reliability, security, and scale.
+I am a results-driven **Python & Backend Developer** specializing in building production-grade web applications, robust RESTful APIs, and scalable database architectures. From designing normalized database schemas to engineering automated ETL pipelines and real-time backend systems, I focus on delivering clean, maintainable, and high-performance code.
 
+*   🐍 **Core Python Expertise**: Proficient in the modern Python web ecosystem—**Django**, **Flask**, and **FastAPI**—building secure REST APIs with transactional integrity and strict CRUD workflows.
 *   💻 **Software Engineering Focus**: Expertise in Python ecosystem (Django, Flask, FastAPI), microcontrollers, real-time data streaming, and full-stack web applications.
 *   🤖 **AI/ML & Environmental Intelligence**: Hands-on experience developing AI-driven monitoring systems (GasGuard), sensor data pipelines, and analytical processing.
 *   ⚡ **Full Stack Capabilities**: Proficient in constructing client-side dashboards, asynchronous API consumption, and interactive web tools.
 *   🧠 **Product Engineering Mindset**: Passionate about architectural integrity, modularity, 3NF schema design, transaction safety, and clean code practices.
 *   🎯 **Open To**: Full-time Software Engineering, Backend Developer, and AI/ML Engineering roles in high-growth engineering organizations.
+*   🎯 **Target Roles**: Entry-Level to Junior **Python Developer**, **Backend Engineer**, or **Software Engineer** in fast-paced engineering teams.
 
 ---
 
