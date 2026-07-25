@@ -226,7 +226,7 @@ A full-stack operational dashboard featuring a RESTful backend architecture, aut
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan-p/rohan-p/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/rohan-p8/rohan-p8/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
