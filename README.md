@@ -12,15 +12,15 @@
 
   <p align="center">
     <a href="https://rohan-p.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-7209B7?style=flat-square&logo=firefox&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/rohan-patil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/rohan-patil-python/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:patil.rohan.8990@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/rohan-p"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/rohan-p8"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rohan-p&color=7000FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/rohan-p?style=flat-square&color=3A0CA3&label=Followers" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/rohan-p?style=flat-square&color=7209B7&label=Total+Stars" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=rohan-p8&color=7000FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/rohan-p8?style=flat-square&color=3A0CA3&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/rohan-p8?style=flat-square&color=7209B7&label=Total+Stars" alt="Stars" />
   </p>
 </div>
 
@@ -224,9 +224,7 @@ A full-stack operational dashboard featuring a RESTful backend architecture, aut
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rohan-p8/rohanpatil/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
+<img src="https://raw.githubusercontent.com/rohan-p8/rohan-p8/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 ---
 
