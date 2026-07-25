@@ -207,12 +207,12 @@ A full-stack operational dashboard featuring a RESTful backend architecture, aut
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy-max.vercel.app/?username=rohan-p8&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" />
 </div>
----
+--- -->
 
 ## 📈 Contribution Activity
 
